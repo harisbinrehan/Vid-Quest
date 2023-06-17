@@ -5,7 +5,7 @@ To use this project, follow these steps:
 
 1- Clone the repository or download the source code from GitHub.
 
-2- Upload the distractors file to your Google Drive account(Be patient; file is a bit lengthy 😀).
+2- You have to download distractors file from Google and save it Google Drive account(Be patient; file is a bit lengthy 😀).
 
 3- Open the notebook file in Google Colab Notebook.
 
